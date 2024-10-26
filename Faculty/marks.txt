@@ -1,3 +1,5 @@
 Here are the marks
 22
 33
+
+The best two marks out of the three tests are taken for total
